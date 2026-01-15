@@ -1,7 +1,7 @@
 # Segmenting-and-engineering-higher-education-applicants-in-denmark
 This is the draft of a study of how higher education applicants priority lists can be used to form segments of applicants, which will be useful for policymakers to engineer the ideal future workforce
 
-##Brief description in danish
+##Brief-description-in-danish
 Min idé med data fra optagelse.dk går ud på at kigge på hvilke grupper af prioriteriteter folk søger, når de søger videregående uddannelser. Dataene kan så bruges til at skabe segmenter af uddannelsessøgere, hvor man fx ville kunne se om nogen med humaniora som førsteprioritet måske havde sygeplejerske som andenprioritet. 
 
 ##Nyhedsværdi
